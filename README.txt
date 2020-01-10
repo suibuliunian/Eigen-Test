@@ -6,3 +6,5 @@ Before use this demo ,install eigin lib first,and config the path in CMakeList.t
 3. cmake ..
 4. make
 5. ./useEigen
+test
+
